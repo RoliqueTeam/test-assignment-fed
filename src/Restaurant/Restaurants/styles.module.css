@@ -1,0 +1,12 @@
+.restaurantsContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 640px) {
+  .restaurantsContainer {
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}

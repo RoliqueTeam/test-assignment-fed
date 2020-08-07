@@ -1,0 +1,15 @@
+.backButton {
+  width: 45px;
+  height: 45px;
+  background-image: url('./assets/ic_webBack@2x.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.mapIcon {
+  width: 65px;
+  height: 65px;
+  background-image: url('./assets/icon_map@2x.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}

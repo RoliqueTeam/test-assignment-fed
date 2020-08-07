@@ -1,0 +1,27 @@
+.restaurantInfo {
+  background-color: #34b379;
+  padding: 15px 12px;
+}
+
+.name {
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 6px;
+  color: #fff;
+}
+
+.category {
+  font-size: 12px;
+  margin: 0;
+  color: #fff;
+}
+
+.detailsContainer {
+  margin-top: 16px;
+  padding: 16px;
+}
+
+.detail:not(:last-child) {
+  margin-bottom: 26px;
+  font-size: 16px;
+}
